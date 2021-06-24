@@ -5,9 +5,6 @@ API .NET Catalagos de jogos, integrada na memória ou com algum banco de dados.
 [![NPM](https://img.shields.io/npm/l/react)]https://github.com/GabrielCODP/APICatalogoDeJogos/blob/master/LICENSE
 
 # Sobre o projeto
-
-https://wmazoni-sds1.netlify.app
-
 Catalago de Jogos é uma aplicação de API utilizando .NET construída no bootcamp (Take Blip Fullstack Developer), evento organizado pela [Digital Innovatio One](https://web.digitalinnovation.one "Site").
 
 ## Layout API
