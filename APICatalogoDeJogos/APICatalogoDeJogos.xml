@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APICatalogoDeJogos</name>
+    </assembly>
+    <members>
+        <member name="M:APICatalogoDeJogos.Controllers.V1.CicloDeVidaIdController.Get">
+            <summary>
+            Observa o ID, vê a diverença de Singleton,Scoped,Transient.(Atualizar pagina)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:APICatalogoDeJogos.Controllers.V1.JogosController.Obter(System.Int32,System.Int32)">
+            <summary>
+            Buscar todos os jogos de forma paginada
+            </summary>
+            <remarks>
+            Não é possível retorna os jogos sem paginação
+            </remarks>
+            <param name="pagina"></param>
+            <param name="quantidade"></param>
+            <response code="200">Retorna a lista de jogos</response>
+            <response code="204">Caso não tem jogo</response>
+            <returns></returns>
+        </member>
+        <member name="M:APICatalogoDeJogos.Controllers.V1.JogosController.Obter(System.Guid)">
+            <summary>
+            Busca jogo pelo ID
+            </summary>
+            <param name="idJogo">Id do jogo buscado</param>
+            <response code="200">Retorna o jogo</response>
+            <response code="204">Caso não tem jogo</response>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:APICatalogoDeJogos.Controllers.V1.JogosController.InserirJogo(APICatalogoDeJogos.InputModel.JogoInputModel)" -->
+        <member name="M:APICatalogoDeJogos.Controllers.V1.JogosController.AtualizarJogo(System.Guid,APICatalogoDeJogos.InputModel.JogoInputModel)">
+            <summary>
+            Editar o escopo do jogo
+            </summary>
+            <param name="idJogo"></param>
+            <param name="jogoInputModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:APICatalogoDeJogos.Controllers.V1.JogosController.AtualizarJogo(System.Guid,System.Double)">
+            <summary>
+            Editar o preço do jogo
+            </summary>
+            <param name="idJogo"></param>
+            <param name="preco"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
