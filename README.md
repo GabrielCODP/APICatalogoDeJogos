@@ -28,3 +28,7 @@ Abrir: APICatalogoDeJogos.sln
 Clicar em Executar
 
 https://www.linkedin.com/in/gabriel-f-7b12241b0/
+
+# Professor
+Nome: Thiago Campos de Oliveira
+https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/
