@@ -5,10 +5,10 @@ API .NET Catalagos de jogos, integrada na memória ou com algum banco de dados.
 [![NPM](https://img.shields.io/npm/l/react)]https://github.com/GabrielCODP/APICatalogoDeJogos/blob/master/LICENSE
 
 # Sobre o projeto
-Catalago de Jogos é uma aplicação de API utilizando .NET construída no bootcamp (Take Blip Fullstack Developer), evento organizado pela [Digital Innovatio One](https://web.digitalinnovation.one "Site").
+Catalago de Jogos é uma aplicação API utilizando .NET construída no Bootcamp (Take Blip Fullstack Developer), evento organizado pela[Digital Innovatio One](https://web.digitalinnovation.one "Site").
 
 ## Layout API
-![Web 1](https://github.com)
+![image](https://user-images.githubusercontent.com/69729135/123185062-771e5d80-d46b-11eb-8bc4-6d912f882d14.png)
 
 # Tecnologias utilizadas
 ## Back end
