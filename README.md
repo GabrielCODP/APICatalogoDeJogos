@@ -27,7 +27,6 @@ git clone https://github.com/GabrielCODP/APICatalogoDeJogos
 Abrir: APICatalogoDeJogos.sln
 Clicar em Executar
 
-https://www.linkedin.com/in/gabriel-f-7b12241b0/
 
 # Professor
 Nome: Thiago Campos de Oliveira
